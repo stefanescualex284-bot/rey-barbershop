@@ -195,6 +195,7 @@
 }
 .card-info{
      display:flex;
+     flex:1;
      justify-content: center;
      align-items: center;
      text-align: center;
@@ -208,6 +209,7 @@
      box-sizing: border-box;
      border:1px solid red;
      transition:all 0.25s ease;
+     margin:17px;
 }
 .card-info p{
      font-weight: bold;
