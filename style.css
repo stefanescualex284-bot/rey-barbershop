@@ -215,6 +215,9 @@
      font-weight: bold;
      font-style: oblique;
 }
+.card-info h1{
+     font-size:medium ;
+}
 .card-info:hover{
      transform:translateY(-5px) scale(1.05);
      box-shadow: 0 0 10px  white;
